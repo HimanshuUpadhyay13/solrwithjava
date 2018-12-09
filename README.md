@@ -1,2 +1,4 @@
-# solrwithjava
-This is effort to develop a  community of developer that can solve problems related to solr
+Agile Board:
+https://github.com/HimanshuUpadhyay13/solrwithjava/edit/master/README.md
+
+Documentation is in progress
